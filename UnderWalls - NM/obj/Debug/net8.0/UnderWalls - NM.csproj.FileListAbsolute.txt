@@ -1,0 +1,14 @@
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\bin\Debug\net8.0\UnderWalls - NM.exe
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\bin\Debug\net8.0\UnderWalls - NM.deps.json
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\bin\Debug\net8.0\UnderWalls - NM.runtimeconfig.json
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\bin\Debug\net8.0\UnderWalls - NM.dll
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\bin\Debug\net8.0\UnderWalls - NM.pdb
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net8.0\UnderWalls - NM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net8.0\UnderWalls - NM.AssemblyInfoInputs.cache
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net8.0\UnderWalls - NM.AssemblyInfo.cs
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net8.0\UnderWalls - NM.csproj.CoreCompileInputs.cache
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net8.0\UnderWalls - NM.dll
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net8.0\refint\UnderWalls - NM.dll
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net8.0\UnderWalls - NM.pdb
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net8.0\UnderWalls - NM.genruntimeconfig.cache
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net8.0\ref\UnderWalls - NM.dll

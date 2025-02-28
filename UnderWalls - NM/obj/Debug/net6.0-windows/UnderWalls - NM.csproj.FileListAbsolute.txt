@@ -1,0 +1,18 @@
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net6.0-windows\UnderWalls - NM_MarkupCompile.cache
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\bin\Debug\net6.0-windows\UnderWalls - NM.exe
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\bin\Debug\net6.0-windows\UnderWalls - NM.deps.json
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\bin\Debug\net6.0-windows\UnderWalls - NM.runtimeconfig.json
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\bin\Debug\net6.0-windows\UnderWalls - NM.dll
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\bin\Debug\net6.0-windows\UnderWalls - NM.pdb
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net6.0-windows\UnderWalls - NM.g.resources
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net6.0-windows\UnderWalls - NM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net6.0-windows\UnderWalls - NM.AssemblyInfoInputs.cache
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net6.0-windows\UnderWalls - NM.AssemblyInfo.cs
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net6.0-windows\UnderWalls - NM.csproj.CoreCompileInputs.cache
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net6.0-windows\UnderWalls - NM.dll
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net6.0-windows\refint\UnderWalls - NM.dll
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net6.0-windows\UnderWalls - NM.pdb
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net6.0-windows\UnderWalls - NM.genruntimeconfig.cache
+C:\Users\VAYY\source\repos\UnderWalls - NM\UnderWalls - NM\obj\Debug\net6.0-windows\ref\UnderWalls - NM.dll

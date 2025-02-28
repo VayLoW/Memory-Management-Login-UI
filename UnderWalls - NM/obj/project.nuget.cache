@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rikxpQ92u1c=",
+  "success": true,
+  "projectFilePath": "D:\\Safe\\UnderWallsTrainer\\UnderWalls - NM UI+LOGIN\\UnderWalls - NM\\UnderWalls - NM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VAYY\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\VAYY\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\VAYY\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\VAYY\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
