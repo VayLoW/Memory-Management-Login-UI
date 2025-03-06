@@ -1,4 +1,3 @@
-![VayLoW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VayLoW&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 Memory Management, Login & UI
 ================================
 
@@ -83,3 +82,5 @@ Main Menu :
 
 
 Mon discord si vous avez des questions : katrevin
+
+![VayLoW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VayLoW&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
